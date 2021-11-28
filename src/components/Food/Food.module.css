@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+    background-color: #c7f0fc;
+}
+
+.title {
+    text-align: center;
+}
+
+.img_1 {
+    display: block;
+    margin: 0 auto;
+}
+
+.img {
+    border-radius: 20px;
+}
+
+.img_2 {
+    border-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+.text {
+    width: 50%;
+}
